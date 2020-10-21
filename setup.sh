@@ -30,7 +30,8 @@ git clone https://github.com/pyenv/pyenv-virtualenvwrapper.git \
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | bash
 nvm install --lts
 
-dotfiles=$(ls -1A --ignore={setup.sh,README.md,.git,.local})
+dotdir="$HOME/.dotfiles"
+dotfiles=$(ls -1A $dotdir --ignore={setup.sh,README.md,.git,.local})
 
 if [[ $dotfiles ]]; then
   for dotfile in $dotfiles; do
@@ -39,10 +40,10 @@ if [[ $dotfiles ]]; then
       dot=$(ls -1A $dotfile)
       for subfolder in $dot; do
         echo "$subfolder"
-        ln -s $dotfile/$subfolder $HOME/$dotfile
+        ln -s $dotdir/$dotfile/$subfolder $HOME/$dotfile
       done
     else
-      ln -s $dotfile $HOME/$dotfile
+      ln -s $dotdir/$dotfile $HOME/$dotfile
     fi
   done
 else
