@@ -1,0 +1,11 @@
+autoclip: true
+autoimport: true
+cliptimeout: 45
+exportkeys: true
+mime: true
+nocolor: false
+nopager: false
+notifications: true
+path: /home/murin/.local/share/gopass/stores/root
+safecontent: false
+mounts: {}

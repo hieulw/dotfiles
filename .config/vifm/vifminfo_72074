@@ -1,0 +1,575 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/murin/
+	..
+1587637221
+'b
+	/home/murin/bin/
+	..
+1587637221
+'h
+	/home/murin/
+	..
+1589906042
+'k
+	/home/murin/SoftMaker/Bullets
+	Checkmark_2D_Red.png
+1589906819
+'n
+	/home/murin/.config/nvim
+	init.vim
+1592106827
+'p
+	/home/murin/.cache/yay/packettracer
+	.SRCINFO
+1588952667
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/murin/Sites/dreamers
+	src
+6
+d/home/murin/Sites/dreamers/src
+	utils
+2
+d/home/murin/Sites/dreamers
+	src
+5
+d/home/murin/Sites/dreamers/src
+	lib
+1
+d/home/murin/Sites/dreamers
+	src
+4
+d/home/murin/Sites/dreamers/src
+	interfaces
+1
+d/home/murin/Sites/dreamers
+	src
+3
+d/home/murin/Sites/dreamers/src
+	components
+1
+d/home/murin/Sites/dreamers
+	.next
+2
+d/home/murin/Sites/dreamers/.next
+	static
+3
+d/home/murin/Sites/dreamers/.next/static
+	development
+2
+d/home/murin/Sites/dreamers/.next/static/development
+	_buildManifest.js
+3
+d/home/murin/Sites/dreamers/.next/static
+	development
+2
+d/home/murin/Sites/dreamers/.next
+	cache
+1
+d/home/murin/Sites/dreamers/.next/cache
+	autodll-webpack-plugin
+1
+d/home/murin/Sites/dreamers/.next
+	cache
+1
+d/home/murin/Sites/dreamers/.next/cache
+	autodll-webpack-plugin
+1
+d/home/murin/Sites/dreamers/.next
+	server
+2
+d/home/murin/Sites/dreamers/.next/server
+	pages-manifest.json
+4
+d/home/murin/Sites/dreamers/.next
+	server
+2
+d/home/murin/Sites/dreamers
+	.next
+2
+d/home/murin/Sites
+	dreamers
+2
+d/home/murin
+	Sites
+26
+d/home/murin/Sites
+	dreamers
+2
+d/home/murin/Sites/dreamers
+	.git
+1
+d/home/murin/Sites
+	bank-crawler
+1
+d/home/murin/Sites/bank-crawler
+	env.js
+4
+d/home/murin/Sites
+	ticket
+3
+d/home/murin/Sites/ticket
+	.firebaserc
+3
+d/home/murin/Sites
+	dreamers
+2
+d/home/murin/Sites/dreamers
+	src
+4
+d/home/murin/Sites/dreamers/src
+	components
+1
+d/home/murin/Sites/dreamers/src/components
+	ListItem.tsx
+4
+d/home/murin/Sites/dreamers/src
+	interfaces
+2
+d/home/murin/Sites/dreamers/src/interfaces
+	index.ts
+1
+d/home/murin/Sites/dreamers/src
+	lib
+3
+d/home/murin/Sites/dreamers/src/lib
+	..
+0
+d/home/murin/Sites/dreamers/src
+	components
+1
+d/home/murin/Sites/dreamers/src/components
+	List.tsx
+2
+d/home/murin/Sites/dreamers/src
+	pages
+4
+d/home/murin/Sites/dreamers
+	babel-plugin-macros.config.js
+8
+d/home/murin/Sites/dreamers/src/pages
+	..
+0
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers
+	src
+5
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers/src/pages
+	_app.tsx
+3
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers
+	src
+5
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers/src/pages
+	index.tsx
+5
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers
+	src
+5
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers/src/pages
+	..
+0
+d/home/murin/Sites/dreamers/src
+	components
+1
+d/home/murin/Sites/dreamers/src/components
+	Layout.tsx
+1
+d/home/murin/Sites/dreamers
+	src
+5
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers/src/pages
+	index.tsx
+5
+d/home/murin/Sites/dreamers/src/components/blogs
+	..
+0
+d/home/murin/Sites/dreamers/src/components
+	blogs
+1
+d/home/murin/Sites/dreamers/src/components/blogs
+	..
+0
+d/home/murin/Sites/dreamers/src/components
+	cards
+2
+d/home/murin/Sites/dreamers/src/components/cards
+	..
+0
+d/home/murin/Sites/dreamers/src/components
+	cta
+3
+d/home/murin/Sites/dreamers/src/components/cta
+	..
+0
+d/home/murin/Sites/dreamers/src/components
+	testimonials
+12
+d/home/murin/Sites/dreamers/src/components/testimonials
+	..
+0
+d/home/murin/Sites/dreamers/src/components
+	testimonials
+12
+d/home/murin/Sites/dreamers/src/components/footers
+	..
+0
+d/home/murin/Sites/dreamers/src/components
+	List.tsx
+14
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers/src/pages
+	about.tsx
+4
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers
+	node_modules
+3
+d/home/murin/Sites/dreamers/node_modules
+	svgo
+26
+d/home/murin/Sites/dreamers/node_modules/svgo
+	package.json
+12
+d/home/murin/Sites/dreamers/node_modules
+	svgo
+26
+d/home/murin/Sites/dreamers
+	node_modules
+3
+d/home/murin/Sites/dreamers/node_modules
+	use-in-view
+26
+d/home/murin/Sites/dreamers/node_modules/use-in-view
+	index.js
+1
+d/home/murin/Sites/dreamers
+	node_modules
+3
+d/home/murin/Sites/dreamers/node_modules
+	use-in-view
+24
+d/home/murin/Sites/dreamers
+	src
+5
+d/home/murin/Sites/dreamers/src
+	helpers
+2
+d/home/murin/Sites/dreamers/src/helpers
+	..
+0
+d/home/murin/Sites/dreamers/src
+	components
+1
+d/home/murin/Sites/dreamers/src/components
+	headers
+8
+d/home/murin/Sites/dreamers/src/components/headers
+	light.js
+1
+d/home/murin/Sites/dreamers/src/components
+	ListItem.tsx
+16
+d/home/murin/Sites/dreamers/src
+	pages
+6
+d/home/murin/Sites/dreamers/src/pages
+	index.tsx
+5
+d/home/murin/Sites/nextjs-blog
+	public
+5
+d/home/murin/Sites/nextjs-blog/public
+	..
+0
+d/home/murin/Sites/nextjs-blog
+	pages
+4
+d/home/murin/Sites/nextjs-blog/pages
+	..
+0
+d/home/murin/Sites/nextjs-blog
+	pages
+4
+d/home/murin/Sites/nextjs-blog/pages
+	posts
+1
+d/home/murin/Sites/nextjs-blog/pages/posts
+	first-post.js
+1
+d/home/murin/Sites/nextjs-blog/pages
+	posts
+1
+d
+
+# Right window history (oldest to newest):
+D/home/murin
+	..
+0
+D/home
+	murin
+1
+D/home/murin
+	Pictures
+8
+D/home
+	murin
+1
+D/home/murin
+	Pictures
+8
+D
+
+# Command line history (oldest to newest):
+:map
+:map ?
+:h map
+:h vifm-general-keys
+:set shellcmdflag=-ic
+:echo %c
+:!echo %c
+:!echo %q
+:echo %q
+:!cat %q
+:!bat %c %q
+:!bat %c --color=always %q
+:touch mpv.conf'
+:mkdir react-project
+:wq
+:touch index.js
+:touch App.js
+:touch apiKey.js
+:touch twin.d.ts
+:touch _app.tsx
+:touch next.config.js
+:mkdir post
+:touch first-post.js
+:q
+
+# Search history (oldest to newest):
+/.pas
+/.pass
+/.config
+/.git
+/.rg
+/.conf
+/.config/
+/svgo
+/use
+
+# Prompt history (oldest to newest):
+pAnimationRevealPage.tsx
+pFullWidthWithImage.tsx
+plight.tsx
+psimplescreenrecorder-2020-05-06_20.03.33
+psimplescreenrecorder-2020-05-06_20.03.33.mkv
+pm__uri_indeventa@gmail.com.gpg
+pmurindeventa@gmail.com
+pmpv.conf
+penv.js
+pposts
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/murin/.local/share/vifm/Trash/000_blogs
+""/home/murin/.local/share/vifm/Trash/000_cards
+""/home/murin/.local/share/vifm/Trash/000_cta
+""/home/murin/.local/share/vifm/Trash/000_faqs
+""/home/murin/.local/share/vifm/Trash/000_features
+""/home/murin/.local/share/vifm/Trash/000_footers
+""/home/murin/.local/share/vifm/Trash/000_forms
+""/home/murin/.local/share/vifm/Trash/000_headers
+""/home/murin/.local/share/vifm/Trash/000_hero
+""/home/murin/.local/share/vifm/Trash/000_misc
+""/home/murin/.local/share/vifm/Trash/000_pricing
+""/home/murin/.local/share/vifm/Trash/000_testimonials
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/murin/.local/share/vifm/Trash/000_plugged
+	/home/murin/.config/nvim/plugged
+t/home/murin/.local/share/vifm/Trash/000_-p
+	/home/murin/.local/share/nvim/site/autoload/lightline/colorscheme/-p
+t/home/murin/.local/share/vifm/Trash/000_nnn
+	/home/murin/.config/nnn
+t/home/murin/.local/share/vifm/Trash/000_s
+	/home/murin/.terminfo/s
+t/home/murin/.local/share/vifm/Trash/000_plugins
+	/home/murin/.config/tmux/plugins
+t/home/murin/.local/share/vifm/Trash/000_passwd
+	/home/murin/.config/mutt/passwd
+t/home/murin/.local/share/vifm/Trash/000_murindeventa
+	/home/murin/.local/share/mail/murindeventa
+t/home/murin/.local/share/vifm/Trash/000_hcache
+	/home/murin/.config/mutt/hcache
+t/home/murin/.local/share/vifm/Trash/000_imaps:murindeventa@gmail.com@imap.gmail.com:993
+	/home/murin/.config/mutt/cache/imaps:murindeventa@gmail.com@imap.gmail.com:993
+t/home/murin/.local/share/vifm/Trash/000_muttrc.mw
+	/home/murin/.config/mutt/muttrc.mw
+t/home/murin/.local/share/vifm/Trash/000_cache
+	/home/murin/.config/mutt/cache
+t/home/murin/.local/share/vifm/Trash/000_mailcap
+	/home/murin/.config/mutt/mailcap
+t/home/murin/.local/share/vifm/Trash/000_mutt-wizard-murindeventa.gpg
+	/home/murin/.password-store/mutt-wizard-murindeventa.gpg
+t/home/murin/.local/share/vifm/Trash/000_muttrc.bk
+	/home/murin/.config/mutt/muttrc.bk
+t/home/murin/.local/share/vifm/Trash/000_1-murin.muttrc
+	/home/murin/.config/mutt/1-murin.muttrc
+t/home/murin/.local/share/vifm/Trash/000_cache_py_3.8.2
+	/home/murin/.config/mps-youtube/cache_py_3.8.2
+t/home/murin/.local/share/vifm/Trash/000_mps-youtube
+	/home/murin/.config/mps-youtube
+t/home/murin/.local/share/vifm/Trash/000_The Elements of Statistical Learning_2nd ed. 2009 (1).pdf
+	/home/murin/Documents/Springer-Books/The Elements of Statistical Learning_2nd ed. 2009 (1).pdf
+t/home/murin/.local/share/vifm/Trash/000_The Joy of Science_2007.pdfbpi0khud.tmp
+	/home/murin/Documents/Springer-Books/The Joy of Science_2007.pdfbpi0khud.tmp
+t/home/murin/.local/share/vifm/Trash/000_DUAL_STACK.pkt
+	/home/murin/packettracer/saves/DUAL_STACK.pkt
+t/home/murin/.local/share/vifm/Trash/000_packettracer.tar.gz
+	/home/murin/Downloads/packettracer.tar.gz
+t/home/murin/.local/share/vifm/Trash/000_Cisco Packet Tracer FAQs_7_3_0.pdf
+	/home/murin/Downloads/Cisco Packet Tracer FAQs_7_3_0.pdf
+t/home/murin/.local/share/vifm/Trash/000_index.html
+	/home/murin/Workplace/TIL/site/layouts/index.html
+t/home/murin/.local/share/vifm/Trash/000__default
+	/home/murin/Workplace/TIL/site/layouts/_default
+t/home/murin/.local/share/vifm/Trash/000_partials
+	/home/murin/Workplace/TIL/site/layouts/partials
+t/home/murin/.local/share/vifm/Trash/000_404.html
+	/home/murin/Workplace/TIL/site/layouts/404.html
+t/home/murin/.local/share/vifm/Trash/000_staticman.yml
+	/home/murin/Workplace/TIL/site/staticman.yml
+t/home/murin/.local/share/vifm/Trash/000_tech.md
+	/home/murin/Workplace/TIL/site/content/tech.md
+t/home/murin/.local/share/vifm/Trash/000_content
+	/home/murin/Workplace/TIL/site/content
+t/home/murin/.local/share/vifm/Trash/000_casts
+	/home/murin/Workplace/TIL/site/static/casts
+t/home/murin/.local/share/vifm/Trash/000_eden-farm-children-s-village.jpg
+	/home/murin/Workplace/TIL/site/static/images/eden-farm-children-s-village.jpg
+t/home/murin/.local/share/vifm/Trash/000_layouts
+	/home/murin/Workplace/TIL/site/layouts
+t/home/murin/.local/share/vifm/Trash/000_authors
+	/home/murin/Workplace/TIL/site/content/authors
+t/home/murin/.local/share/vifm/Trash/000_page
+	/home/murin/Workplace/TIL/site/content/page
+t/home/murin/.local/share/vifm/Trash/000_tags
+	/home/murin/Workplace/TIL/site/content/tags
+t/home/murin/.local/share/vifm/Trash/000_posts
+	/home/murin/Workplace/TIL/site/content/posts
+t/home/murin/.local/share/vifm/Trash/000_b9d00e41c31f7f3dd222a9247a1742ca_720p.mp4.m3u8
+	/home/murin/Downloads/b9d00e41c31f7f3dd222a9247a1742ca_720p.mp4.m3u8
+t/home/murin/.local/share/vifm/Trash/000_bccf2c2a-1fbe-5209-9260-85a0f9cfc334
+	/home/murin/Downloads/bccf2c2a-1fbe-5209-9260-85a0f9cfc334
+t/home/murin/.local/share/vifm/Trash/000_Edraw
+	/home/murin/Edraw
+t/home/murin/.local/share/vifm/Trash/000_Login
+	/home/murin/Login
+t/home/murin/.local/share/vifm/Trash/000_.links
+	/home/murin/.links
+t/home/murin/.local/share/vifm/Trash/000_cache.db
+	/home/murin/.config/newsboat/cache.db
+t/home/murin/.local/share/vifm/Trash/000_play.podtrac.com
+	/home/murin/Downloads/play.podtrac.com
+t/home/murin/.local/share/vifm/Trash/000_favicon.ico
+	/home/murin/Sites/dict/public/favicon.ico
+t/home/murin/.local/share/vifm/Trash/000_logo192.png
+	/home/murin/Sites/dict/public/logo192.png
+t/home/murin/.local/share/vifm/Trash/000_logo512.png
+	/home/murin/Sites/dict/public/logo512.png
+t/home/murin/.local/share/vifm/Trash/000_manifest.json
+	/home/murin/Sites/dict/public/manifest.json
+t/home/murin/.local/share/vifm/Trash/000_robots.txt
+	/home/murin/Sites/dict/public/robots.txt
+t/home/murin/.local/share/vifm/Trash/000_App.css
+	/home/murin/Sites/dict/src/App.css
+t/home/murin/.local/share/vifm/Trash/000_App.js
+	/home/murin/Sites/dict/src/App.js
+t/home/murin/.local/share/vifm/Trash/000_App.test.js
+	/home/murin/Sites/dict/src/App.test.js
+t/home/murin/.local/share/vifm/Trash/000_index.css
+	/home/murin/Sites/dict/src/index.css
+t/home/murin/.local/share/vifm/Trash/000_index.js
+	/home/murin/Sites/dict/src/index.js
+t/home/murin/.local/share/vifm/Trash/000_logo.svg
+	/home/murin/Sites/dict/src/logo.svg
+t/home/murin/.local/share/vifm/Trash/000_serviceWorker.js
+	/home/murin/Sites/dict/src/serviceWorker.js
+t/home/murin/.local/share/vifm/Trash/000_setupTests.js
+	/home/murin/Sites/dict/src/setupTests.js
+t/home/murin/.local/share/vifm/Trash/000_blogs
+	/home/murin/Sites/dreamers/src/components/blogs
+t/home/murin/.local/share/vifm/Trash/000_cards
+	/home/murin/Sites/dreamers/src/components/cards
+t/home/murin/.local/share/vifm/Trash/000_cta
+	/home/murin/Sites/dreamers/src/components/cta
+t/home/murin/.local/share/vifm/Trash/000_faqs
+	/home/murin/Sites/dreamers/src/components/faqs
+t/home/murin/.local/share/vifm/Trash/000_features
+	/home/murin/Sites/dreamers/src/components/features
+t/home/murin/.local/share/vifm/Trash/000_footers
+	/home/murin/Sites/dreamers/src/components/footers
+t/home/murin/.local/share/vifm/Trash/000_forms
+	/home/murin/Sites/dreamers/src/components/forms
+t/home/murin/.local/share/vifm/Trash/000_headers
+	/home/murin/Sites/dreamers/src/components/headers
+t/home/murin/.local/share/vifm/Trash/000_hero
+	/home/murin/Sites/dreamers/src/components/hero
+t/home/murin/.local/share/vifm/Trash/000_misc
+	/home/murin/Sites/dreamers/src/components/misc
+t/home/murin/.local/share/vifm/Trash/000_pricing
+	/home/murin/Sites/dreamers/src/components/pricing
+t/home/murin/.local/share/vifm/Trash/000_testimonials
+	/home/murin/Sites/dreamers/src/components/testimonials
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0

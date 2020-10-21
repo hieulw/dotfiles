@@ -1,0 +1,36 @@
+{
+  "coc.preferences.extensionUpdateCheck": "weekly",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "vue",
+    "html",
+    "yaml",
+    "json",
+    "python"
+  ],
+  "coc.preferences.colorSupport": true,
+  "coc.preferences.formatOnType": true,
+  "tsserver.npm": "/usr/bin/npm",
+  "tsserver.formatOnType": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "javascriptreact"
+  },
+  "emmet.excludeLanguages": ["markdown", "javascript"],
+  "snippets.userSnippetsDirectory": "~/.config/nvim/snippets",
+  "snippets.ultisnips.enable": false,
+  "suggest.enablePreview": true,
+  "suggest.maxPreviewWidth": 100,
+  "diagnostic.maxWindowHeight": 20,
+  "diagnostic.errorSign": "✖",
+  "diagnostic.warningSign": "⚠",
+  "diagnostic.infoSign": "●",
+  "diagnostic.hintSign": "○",
+  "python.pythonPath": "~/.pyenv/shims/python",
+  "python.linting.pylintEnabled": false,
+}
