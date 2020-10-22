@@ -32,7 +32,9 @@
   "diagnostic.infoSign": "●",
   "diagnostic.hintSign": "○",
   "python.pythonPath": "~/.pyenv/shims/python",
-  "python.linting.pylintEnabled": false,
   "python.formatting.provider": "black",
-  "python.linting.flake8Enabled": true
+  "python.formatting.blackPath": "/home/murin/.local/bin/black",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Path": "/home/murin/.local/bin/flake8"
 }
