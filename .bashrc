@@ -4,6 +4,8 @@ alias la='ls -la'
 alias vi='nvim'
 alias tmux='tmux -2'
 
+export EDITOR="nvim"
+
 
 # NVM
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
