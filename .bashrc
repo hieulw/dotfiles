@@ -1,4 +1,3 @@
-alias dot='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias ls='ls --color'
 alias la='ls -la'
 alias vi='nvim'
