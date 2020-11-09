@@ -51,7 +51,7 @@ let g:mapleader=' '
 let plugin_dir=stdpath('data') . '/plugged'
 let config_dir=stdpath('config') . '/modules'
 let g:python_host_prog='/home/murin/.pyenv/versions/pynvim2/bin/python'
-let g:python3_host_prog='/home/murin/.pyenv/versions/pynvim3/bin/python'
+let g:python3_host_prog='/home/murin/.pyenv/versions/py3nvim/bin/python'
 
 " Plugins
 call plug#begin(plugin_dir)

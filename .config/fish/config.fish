@@ -12,6 +12,7 @@ set -x XDG_CACHE_HOME           $HOME/.cache
 # Paths
 test -d ~/.local/bin; and set -x PATH ~/.local/bin $PATH 
 test -d ~/.pyenv/bin; and set -x PATH ~/.pyenv/bin $PATH 
+test -d ~/.npm-global/bin; and set -x PATH ~/.npm-global/bin $PATH
 
 # Fuzzy Finder
 set -x FZF_LEGACY_KEYBINDINGS   1
@@ -25,8 +26,8 @@ set -x FZF_OPEN_COMMAND         $FZF_DEFAULT_COMMAND
 starship init fish              | source
 
 # Python Environments
-pyenv init -                    | source
-pyenv virtualenv-init -         | source
+status --is-interactive;pyenv init -              | source
+status --is-interactive;pyenv virtualenv-init -   | source
 
 # Vi bindings
 set -g fish_key_bindings fish_vi_key_bindings
@@ -42,8 +43,3 @@ if status is-interactive
         exec startx -- -keeptty
     end
 end
-
-
-# tabtab source for electron-forge package
-# uninstall by removing these lines or running `tabtab uninstall electron-forge`
-[ -f /var/tmp/pamac-build-murin/httptoolkit/src/httptoolkit/node_modules/tabtab/.completions/electron-forge.fish ]; and . /var/tmp/pamac-build-murin/httptoolkit/src/httptoolkit/node_modules/tabtab/.completions/electron-forge.fish

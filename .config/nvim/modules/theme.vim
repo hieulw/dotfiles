@@ -49,7 +49,7 @@ let g:lightline.active = {
     \   'left': [[ 'mode', 'paste' ],
     \            [ 'fugitive', 'filename', 'cocstatus', 'curfunc', 'method']]
     \ }
-let g:lightline.separator = { 'left': '', 'right': '' }
+let g:lightline.separator = { 'left': "\ue0b0", 'right': "\ue0b2" }
 let g:lightline.subseparator = { 'left': "\ue0b1", 'right': "\ue0b3" }
 
 function! LightlineFugitive()
