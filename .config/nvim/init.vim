@@ -120,6 +120,11 @@ nnoremap <C-e> 5<C-e>
 tnoremap <Esc> <C-\><C-n>
 nnoremap <leader><bs> :nohlsearch<cr>
 
+" Fugitive Conflict Resolution
+nnoremap <leader>gd :Gvdiff!<CR>
+nnoremap gdh :diffget //2<CR>
+nnoremap gdl :diffget //3<CR>
+
 " Functions
 nnoremap <leader>e :FloatermNew vifm<cr>
 nnoremap <leader>t :FloatermToggle<cr>
