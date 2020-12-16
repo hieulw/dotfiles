@@ -32,6 +32,7 @@
   "diagnostic.infoSign": "●",
   "diagnostic.hintSign": "○",
   "python.pythonPath": "~/.pyenv/shims/python",
+  "python.poetryPath": "~/.local/bin/poetry",
   "python.formatting.provider": "black",
   "python.formatting.blackPath": "~/.local/bin/black",
   "python.linting.pylintEnabled": false,

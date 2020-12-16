@@ -398,8 +398,8 @@ fileviewer *.ico
 " Or leave it for automatic detection
 "
 " fileviewer *[^/] pygmentize -O style=monokai -f console256 -g
-" fileviewer *[^/] bat -pp --color=auto
-fileviewer *[^/] head -n 20
+fileviewer *[^/] bat -pp --color=auto
+" fileviewer *[^/] head -n 20
 
 
 

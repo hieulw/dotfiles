@@ -38,6 +38,8 @@ alias vim="nvim"
 # alias tmux="env TERM=screen-256color tmux"
 alias scim="sc-im"
 
+# test -e $VIRTUAL_ENV; and source $VIRTUAL_ENV/bin/activate.fish 
+
 if status is-interactive
     if test -z "$DISPLAY" -a "$XDG_VTNR" = 1
         exec startx -- -keeptty

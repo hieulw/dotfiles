@@ -7,5 +7,5 @@ nocolor: false
 nopager: false
 notifications: true
 path: /home/murin/.local/share/gopass/stores/root
-safecontent: false
+safecontent: true
 mounts: {}

@@ -133,3 +133,10 @@ nnoremap <leader><tab> :Buffers<CR>
 nnoremap <leader>g :Rg<CR>
 nnoremap <leader>q :Vista!!<CR>
 nnoremap <leader>m :Marks<CR>
+
+" Apply @record to multiple lines
+xnoremap @ :<C-u>call ExecuteMacroOverVisualRange()<CR>
+function! ExecuteMacroOverVisualRange()
+  echo "@".getcmdline()
+  execute ":'<,'>normal @".nr2char(getchar())
+endfunction
