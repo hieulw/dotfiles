@@ -10,18 +10,14 @@
     "vue",
     "html",
     "yaml",
+    "python",
     "json",
-    "python"
+    "jsonc"
   ],
   "coc.preferences.colorSupport": true,
-  "coc.preferences.formatOnType": true,
-  "tsserver.npm": "/usr/bin/npm",
+  "coc.preferences.formatOnType": false,
+  "tsserver.npm": "/home/murin/.npm-global/bin/npm",
   "tsserver.formatOnType": true,
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact",
-    "typescript": "javascriptreact"
-  },
-  "emmet.excludeLanguages": ["markdown", "javascript"],
   "snippets.userSnippetsDirectory": "~/.config/nvim/snippets",
   "snippets.ultisnips.enable": false,
   "suggest.enablePreview": true,
@@ -31,11 +27,28 @@
   "diagnostic.warningSign": "⚠",
   "diagnostic.infoSign": "●",
   "diagnostic.hintSign": "○",
-  "python.pythonPath": "~/.pyenv/shims/python",
-  "python.poetryPath": "~/.local/bin/poetry",
-  "python.formatting.provider": "black",
-  "python.formatting.blackPath": "~/.local/bin/black",
-  "python.linting.pylintEnabled": false,
-  "python.linting.flake8Enabled": true,
-  "python.linting.flake8Path": "~/.local/bin/flake8"
+  "diagnostic-languageserver.mergeConfig": true,
+  "diagnostic-languageserver.debug": true,
+
+  "diagnostic-languageserver.filetypes": {
+    "python": ["flake8", "mypy"]
+  },
+  "diagnostic-languageserver.formatFiletypes": {
+    "python": ["black"]
+  },
+  "diagnostic-languageserver.linters": {
+    "mypy": {
+      "rootPatterns": [".git", "pyproject.toml", "setup.py"]
+    },
+    "flake8": {
+      "rootPatterns": [".git", "pyproject.toml", "setup.py"]
+    }
+  },
+  "diagnostic-languageserver.formatters": {
+    "black": {
+      "command": "black",
+      "args": ["-q", "-"],
+      "rootPatterns": [".git", "pyproject.toml", "setup.py"]
+    }
+  }
 }

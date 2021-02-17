@@ -81,3 +81,5 @@ let g:floaterm_width = 0.88
 let g:floaterm_height = 0.88
 let g:floaterm_wintitle = 0
 let g:floaterm_autoclose = 1
+
+highlight link FloatermBorder Floaterm

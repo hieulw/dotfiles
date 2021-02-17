@@ -15,10 +15,10 @@ export PATH="/home/murin/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
-# virtualenv wrapper
-export PYENV_VIRTUALENVWRAPPER_PREFER_PYVENV="true"
-export WORKON_HOME=$HOME/.virtualenvs
-pyenv virtualenvwrapper_lazy
+# # virtualenv wrapper
+# export PYENV_VIRTUALENVWRAPPER_PREFER_PYVENV="true"
+# export WORKON_HOME=$HOME/.virtualenvs
+# pyenv virtualenvwrapper_lazy
 
-# Starship Prompt
-eval "$(starship init bash)"
+# # Starship Prompt
+# eval "$(starship init bash)"

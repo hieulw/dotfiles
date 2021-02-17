@@ -397,8 +397,8 @@ fileviewer *.ico
 "
 " Or leave it for automatic detection
 "
-" fileviewer *[^/] pygmentize -O style=monokai -f console256 -g
-fileviewer *[^/] bat -pp --color=auto
+" fileviewer *[^/] pygmentize -O style=tango -f console256 -g
+fileviewer *[^/] bat --color always --wrap never --pager never -p %c %p
 " fileviewer *[^/] head -n 20
 
 
@@ -436,7 +436,8 @@ set vifminfo=dhistory,savedirs,chistory,state,tui,shistory,
 
 " Filter-out build and temporary files
 "
-" filter! /^.*\.(lo|o|d|class|py[co])$|.*~$/
+filter /^.*\.(lo|o|d|class|py[co])$|.*~$/
+filter /__pycache__\//
 
 " ------------------------------------------------------------------------------
 

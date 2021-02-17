@@ -21,7 +21,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/ # Gotecq need lib for local python package
 lib64/
 parts/
 sdist/
@@ -114,7 +114,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
+# env/ # Gotecq need lib for local python package
 venv/
 ENV/
 env.bak/

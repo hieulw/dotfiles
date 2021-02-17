@@ -37,7 +37,7 @@ set pumheight=10                        " Makes popup menu smaller
 set updatetime=300                      " Faster completion
 set timeoutlen=500                      " By default timeoutlen is 1000 ms
 set shortmess+=c                        " Shut off completion messages
-set signcolumn=yes                      " Always show the signcolumn
+set signcolumn=auto                      " Always show the signcolumn
 set clipboard=unnamedplus               " Copy paste between vim and everything else
 set fillchars+=vert:\ ,stl:\ ,stlnc:\   " Oldshcool style
 set list
@@ -58,22 +58,23 @@ call plug#begin(plugin_dir)
 Plug 'joshdick/onedark.vim'
 Plug 'itchyny/lightline.vim'
 Plug 'sheerun/vim-polyglot'
-" Plug 'mhinz/vim-startify', { 'branch': 'center' }
+" " Plug 'mhinz/vim-startify', { 'branch': 'center' }
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-surround'
-Plug 'honza/vim-snippets'
+" Plug 'honza/vim-snippets'
 Plug 'jiangmiao/auto-pairs'
-Plug 'liuchengxu/vista.vim'
+" Plug 'liuchengxu/vista.vim'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'airblade/vim-rooter'
 Plug 'airblade/vim-gitgutter'
 Plug 'voldikss/vim-floaterm'
-Plug 'mattn/emmet-vim'
-Plug 'vifm/vifm.vim'
+" Plug 'mattn/emmet-vim'
+" Plug 'vifm/vifm.vim'
+Plug 'qpkorr/vim-bufkill'
+Plug 'preservim/nerdtree'
 Plug 'neoclide/coc.nvim', { 'branch': 'release' }
-" Plug 'OmniSharp/omnisharp-vim'
 call plug#end()
 
 " Plugins Configuration
@@ -133,6 +134,9 @@ nnoremap <leader><tab> :Buffers<CR>
 nnoremap <leader>g :Rg<CR>
 nnoremap <leader>q :Vista!!<CR>
 nnoremap <leader>m :Marks<CR>
+
+" NerdTree
+nnoremap <leader>n :NERDTreeToggle<CR>
 
 " Apply @record to multiple lines
 xnoremap @ :<C-u>call ExecuteMacroOverVisualRange()<CR>
