@@ -50,5 +50,6 @@
       "args": ["-q", "-"],
       "rootPatterns": [".git", "pyproject.toml", "setup.py"]
     }
-  }
+  },
+  "sql.database": "postgresql"
 }

@@ -2,6 +2,9 @@
 .vim/
 vifminfo
 
+# Sanic project
+manifest.json
+
 # tmux
 */tmux/plugins
 
@@ -260,3 +263,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# MAC OS
+*.DS_Store

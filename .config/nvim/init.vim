@@ -59,6 +59,7 @@ Plug 'joshdick/onedark.vim'
 Plug 'itchyny/lightline.vim'
 Plug 'sheerun/vim-polyglot'
 " " Plug 'mhinz/vim-startify', { 'branch': 'center' }
+Plug 'tpope/vim-abolish'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-surround'
@@ -136,7 +137,7 @@ nnoremap <leader>q :Vista!!<CR>
 nnoremap <leader>m :Marks<CR>
 
 " NerdTree
-nnoremap <leader>n :NERDTreeToggle<CR>
+nnoremap <leader>n :NERDTreeFind<CR>
 
 " Apply @record to multiple lines
 xnoremap @ :<C-u>call ExecuteMacroOverVisualRange()<CR>
