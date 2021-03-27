@@ -17,7 +17,7 @@ test -d ~/.npm-global/bin; and set -x PATH ~/.npm-global/bin $PATH
 # Fuzzy Finder
 set -x FZF_LEGACY_KEYBINDINGS   1
 set -x FZF_TMUX                 1
-set -x FZF_DEFAULT_COMMAND      "rg . --files"
+set -x FZF_DEFAULT_COMMAND      "fd --type f --hidden --follow --exclude .git"
 set -x FZF_DEFAULT_OPTS         '--color=dark,fg:-1,bg:-1,hl:#c678dd,fg+:#ffffff,bg+:#4b5263,hl+:#d858fe,info:#98c379,prompt:#61afef,pointer:#be5046,marker:#e5c07b,spinner:#61afef,header:#61afef'
 set -x FZF_CTRL_T_COMMAND       $FZF_DEFAULT_COMMAND
 set -x FZF_OPEN_COMMAND         $FZF_DEFAULT_COMMAND
